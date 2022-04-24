@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "1000",
+      "code": "f230fh0g3",
+      "name": "ნუროფენ ფორტე",
+      "description": "თავის ტკივილის წამალი",
+      "image": "bamboo-watch.jpg",
+      "price": 10,
+      "category": "წამალი",
+      "quantity": 12,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5
+    },
+    {
+      "id": "1001",
+      "code": "f230fh0g3",
+      "name": "იბუპროფინი",
+      "description": "ტვინის წამალი",
+      "image": "bamboo-watch.jpg",
+      "price": 15,
+      "category": "წამალი",
+      "quantity": 7,
+      "inventoryStatus": "INSTOCK",
+      "rating": 4
+    },
+    {
+      "id": "1002",
+      "code": "f230fh0g3",
+      "name": "ციტრამონი",
+      "description": "თავის ტკივილის წამალი",
+      "image": "bamboo-watch.jpg",
+      "price": 1,
+      "category": "წამალი",
+      "quantity": 5,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5
+    }
+  ]
+}

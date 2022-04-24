@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "medmanual-fdd00"
+  },
+  "targets": {
+    "medmanual-fdd00": {
+      "hosting": {
+        "medmanual": [
+          "medmanual-fdd00"
+        ]
+      }
+    }
+  }
+}
